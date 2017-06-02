@@ -39,6 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/ulefone/k11ta_a/proprietary/lib64/libmrdump.so:system/lib64/libmrdump.so \
     vendor/ulefone/k11ta_a/proprietary/lib64/libterservice.so:system/lib64/libterservice.so \
     vendor/ulefone/k11ta_a/proprietary/etc/ecc_list.xml:system/etc/ecc_list.xml \
+    vendor/ulefone/k11ta_a/proprietary/etc/firmware/catcher_filter_1_ulwctg_n.bin:system/etc/firmware/catcher_filter_1_ulwctg_n.bin \
     vendor/ulefone/k11ta_a/proprietary/etc/firmware/dsp_1_ulwctg_n.bin:system/etc/firmware/dsp_1_ulwctg_n.bin \
     vendor/ulefone/k11ta_a/proprietary/etc/firmware/em_filter_1_ulwctg_n.bin:system/etc/firmware/em_filter_1_ulwctg_n.bin \
     vendor/ulefone/k11ta_a/proprietary/etc/firmware/modem_1_ulwctg_n.img:system/etc/firmware/modem_1_ulwctg_n.img \
@@ -229,16 +230,21 @@ PRODUCT_COPY_FILES += \
     vendor/ulefone/k11ta_a/proprietary/lib/libimageio.so:system/lib/libimageio.so \
     vendor/ulefone/k11ta_a/proprietary/lib64/libimageio.so:system/lib64/libimageio.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libJpgDecPipe.so:system/lib/libJpgDecPipe.so \
+    vendor/ulefone/k11ta_a/proprietary/lib64/libJpgDecPipe.so:system/lib64/libJpgDecPipe.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libSwJpgCodec.so:system/lib/libSwJpgCodec.so \
+    vendor/ulefone/k11ta_a/proprietary/lib64/libSwJpgCodec.so:system/lib64/libSwJpgCodec.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
     vendor/ulefone/k11ta_a/proprietary/lib64/libJpgEncPipe.so:system/lib64/libJpgEncPipe.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libmhalImageCodec.so:system/lib/libmhalImageCodec.so \
+    vendor/ulefone/k11ta_a/proprietary/lib64/libmhalImageCodec.so:system/lib64/libmhalImageCodec.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libmtkcamera_client.so:system/lib/libmtkcamera_client.so \
     vendor/ulefone/k11ta_a/proprietary/lib64/libmtkcamera_client.so:system/lib64/libmtkcamera_client.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libmtkjpeg.so:system/lib/libmtkjpeg.so \
     vendor/ulefone/k11ta_a/proprietary/lib64/libmtkjpeg.so:system/lib64/libmtkjpeg.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libn3d3a.so:system/lib/libn3d3a.so \
     vendor/ulefone/k11ta_a/proprietary/lib64/libn3d3a.so:system/lib64/libn3d3a.so \
+    vendor/ulefone/k11ta_a/proprietary/lib/libONSemiAR1337PdafLibrary.so:system/lib/libONSemiAR1337PdafLibrary.so \
+    vendor/ulefone/k11ta_a/proprietary/lib64/libONSemiAR1337PdafLibrary.so:system/lib64/libONSemiAR1337PdafLibrary.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libSonyIMX230PdafLibrary.so:system/lib/libSonyIMX230PdafLibrary.so \
     vendor/ulefone/k11ta_a/proprietary/lib64/libSonyIMX230PdafLibrary.so:system/lib64/libSonyIMX230PdafLibrary.so \
     vendor/ulefone/k11ta_a/proprietary/lib/hw/camera.mt6755.so:system/lib/hw/camera.mt6755.so \
