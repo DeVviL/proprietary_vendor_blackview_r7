@@ -263,6 +263,9 @@ PRODUCT_COPY_FILES += \
     vendor/ulefone/k11ta_a/proprietary/lib64/libaudiocustparam.so:system/lib64/libaudiocustparam.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libaudiodcrflt.so:system/lib/libaudiodcrflt.so \
     vendor/ulefone/k11ta_a/proprietary/lib64/libaudiodcrflt.so:system/lib64/libaudiodcrflt.so \
+    vendor/ulefone/k11ta_a/proprietary/lib/libaudiomtkdcremoval.so:system/lib/libaudiomtkdcremoval.so \
+    vendor/ulefone/k11ta_a/proprietary/lib/libaudiopolicymanagerdefault.so:system/lib/libaudiopolicymanagerdefault.so \
+    vendor/ulefone/k11ta_a/proprietary/lib64/libaudiopolicymanagerdefault.so:system/lib64/libaudiopolicymanagerdefault.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libaudiosetting.so:system/lib/libaudiosetting.so \
     vendor/ulefone/k11ta_a/proprietary/lib64/libaudiosetting.so:system/lib64/libaudiosetting.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libbessound_hd_mtk.so:system/lib/libbessound_hd_mtk.so \
@@ -323,6 +326,10 @@ PRODUCT_COPY_FILES += \
     vendor/ulefone/k11ta_a/proprietary/lib/libvp8enc_sa.ca7.so:system/lib/libvp8enc_sa.ca7.so \
     vendor/ulefone/k11ta_a/proprietary/lib/hw/audio.primary.mt6755.so:system/lib/hw/audio.primary.mt6755.so \
     vendor/ulefone/k11ta_a/proprietary/lib64/hw/audio.primary.mt6755.so:system/lib64/hw/audio.primary.mt6755.so \
+    vendor/ulefone/k11ta_a/proprietary/lib/hw/audio.r_submix.mt6755.so:system/lib/hw/audio.r_submix.mt6755.so \
+    vendor/ulefone/k11ta_a/proprietary/lib64/hw/audio.r_submix.mt6755.so:system/lib64/hw/audio.r_submix.mt6755.so \
+    vendor/ulefone/k11ta_a/proprietary/lib/hw/audio.usb.mt6755.so:system/lib/hw/audio.usb.mt6755.so \
+    vendor/ulefone/k11ta_a/proprietary/lib64/hw/audio.usb.mt6755.so:system/lib64/hw/audio.usb.mt6755.so \
     vendor/ulefone/k11ta_a/proprietary/etc/audio_param/AudioParamOptions.xml:system/etc/audio_param/AudioParamOptions.xml \
     vendor/ulefone/k11ta_a/proprietary/etc/audio_param/PlaybackACF_AudioParam.xml:system/etc/audio_param/PlaybackACF_AudioParam.xml \
     vendor/ulefone/k11ta_a/proprietary/etc/audio_param/PlaybackACF_ParamUnitDesc.xml:system/etc/audio_param/PlaybackACF_ParamUnitDesc.xml \
