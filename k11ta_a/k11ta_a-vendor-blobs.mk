@@ -69,8 +69,6 @@ PRODUCT_COPY_FILES += \
     vendor/ulefone/k11ta_a/proprietary/lib/libmnl.so:system/lib/libmnl.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libmpe.driver.so:system/lib/libmpe.driver.so \
     vendor/ulefone/k11ta_a/proprietary/lib/libmpe.sensorlistener.so:system/lib/libmpe.sensorlistener.so \
-    vendor/ulefone/k11ta_a/proprietary/lib/hw/gps.mt6755.so:system/lib/hw/gps.mt6755.so \
-    vendor/ulefone/k11ta_a/proprietary/lib64/hw/gps.mt6755.so:system/lib64/hw/gps.mt6755.so \
     vendor/ulefone/k11ta_a/proprietary/xbin/MPED:system/xbin/MPED \
     vendor/ulefone/k11ta_a/proprietary/xbin/mnld:system/xbin/mnld \
     vendor/ulefone/k11ta_a/proprietary/bin/fuelgauged:system/bin/fuelgauged \
