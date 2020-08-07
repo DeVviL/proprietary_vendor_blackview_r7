@@ -88,7 +88,7 @@
       <Param name="bes_loudness_L_lpf_order" value="0x1"/>
       <Param name="bes_loudness_L_bpf_fc" value="0x3E8,0x1770,0x0,0x0,0x0,0x0,0x0,0x0"/>
       <Param name="bes_loudness_L_bpf_bw" value="0x190,0x4B0,0x0,0x0,0x0,0x0,0x0,0x0"/>
-      <Param name="bes_loudness_L_bpf_gain" value="-502,-966,0,0,0,0,0,0"/>
+      <Param name="bes_loudness_L_bpf_gain" value="-504,-968,0,0,0,0,0,0"/>
       <Param name="bes_loudness_R_hpf_fc" value="0x0"/>
       <Param name="bes_loudness_R_hpf_order" value="0x0"/>
       <Param name="bes_loudness_R_lpf_fc" value="0x0"/>
